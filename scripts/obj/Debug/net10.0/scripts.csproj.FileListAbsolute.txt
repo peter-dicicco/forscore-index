@@ -1,0 +1,15 @@
+/home/pld/data/develop/forscore-index/scripts/bin/Debug/net10.0/scripts
+/home/pld/data/develop/forscore-index/scripts/bin/Debug/net10.0/scripts.deps.json
+/home/pld/data/develop/forscore-index/scripts/bin/Debug/net10.0/scripts.runtimeconfig.json
+/home/pld/data/develop/forscore-index/scripts/bin/Debug/net10.0/scripts.dll
+/home/pld/data/develop/forscore-index/scripts/bin/Debug/net10.0/scripts.pdb
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.GeneratedMSBuildEditorConfig.editorconfig
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.AssemblyInfoInputs.cache
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.AssemblyInfo.cs
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.csproj.CoreCompileInputs.cache
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.sourcelink.json
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.dll
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/refint/scripts.dll
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.pdb
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/scripts.genruntimeconfig.cache
+/home/pld/data/develop/forscore-index/scripts/obj/Debug/net10.0/ref/scripts.dll

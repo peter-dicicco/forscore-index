@@ -56,12 +56,12 @@
   },
   {
     "Page": 15,
-    "Title": "Bei dir war immer so sch?n",
+    "Title": "Bei dir war immer so schon",
     "Composer": "Emil Stern"
   },
   {
     "Page": 16,
-    "Title": "Bei mir bist du sch?n",
+    "Title": "Bei mir bist du schon",
     "Composer": "Shalom Secunda"
   },
   {
@@ -121,12 +121,7 @@
   },
   {
     "Page": 28,
-    "Title": "Brise Napolitaine (1)",
-    "Composer": "Guerino & Peyronnin"
-  },
-  {
-    "Page": 29,
-    "Title": "Brise Napolitaine (2)",
+    "Title": "Brise Napolitaine",
     "Composer": "Guerino & Peyronnin"
   },
   {
@@ -156,12 +151,7 @@
   },
   {
     "Page": 35,
-    "Title": "Chez Jacquet (1)",
-    "Composer": "Django"
-  },
-  {
-    "Page": 36,
-    "Title": "Chez Jacquet (2)",
+    "Title": "Chez Jacquet",
     "Composer": "Django"
   },
   {
@@ -236,22 +226,12 @@
   },
   {
     "Page": 51,
-    "Title": "Desvairada (1)",
-    "Composer": "Garoto"
-  },
-  {
-    "Page": 52,
-    "Title": "Desvairada (2)",
+    "Title": "Desvairada",
     "Composer": "Garoto"
   },
   {
     "Page": 53,
-    "Title": "Dicty glide (1)",
-    "Composer": "Duke Ellington"
-  },
-  {
-    "Page": 54,
-    "Title": "Dicty glide (2)",
+    "Title": "Dicty glide",
     "Composer": "Duke Ellington"
   },
   {
@@ -386,27 +366,7 @@
   },
   {
     "Page": 81,
-    "Title": "I'll see you in my dreams (1)",
-    "Composer": "Jones & Kahn"
-  },
-  {
-    "Page": 82,
-    "Title": "I'll see you in my dreams (2)",
-    "Composer": "Jones & Kahn"
-  },
-  {
-    "Page": 83,
-    "Title": "I'll see you in my dreams (3)",
-    "Composer": "Jones & Kahn"
-  },
-  {
-    "Page": 84,
-    "Title": "I'll see you in my dreams (4)",
-    "Composer": "Jones & Kahn"
-  },
-  {
-    "Page": 85,
-    "Title": "I'll see you in my dreams (5)",
+    "Title": "I'll see you in my dreams",
     "Composer": "Jones & Kahn"
   },
   {
@@ -416,12 +376,7 @@
   },
   {
     "Page": 87,
-    "Title": "Indifference (1)",
-    "Composer": "Colombo & Murena"
-  },
-  {
-    "Page": 88,
-    "Title": "Indifference (2)",
+    "Title": "Indifference",
     "Composer": "Colombo & Murena"
   },
   {
@@ -466,32 +421,17 @@
   },
   {
     "Page": 97,
-    "Title": "I wanna be loved by you (1)",
-    "Composer": "Stothart & Ruby"
-  },
-  {
-    "Page": 98,
-    "Title": "I wanna be loved by you (2)",
+    "Title": "I wanna be loved by you",
     "Composer": "Stothart & Ruby"
   },
   {
     "Page": 99,
-    "Title": "I wonder where my baby is tonight (1)",
-    "Composer": "Donaldson & Kahn"
-  },
-  {
-    "Page": 100,
-    "Title": "I wonder where my baby is tonight (2)",
+    "Title": "I wonder where my baby is tonight",
     "Composer": "Donaldson & Kahn"
   },
   {
     "Page": 101,
-    "Title": "I won't dance (1)",
-    "Composer": "Hammerstein & Kahn"
-  },
-  {
-    "Page": 102,
-    "Title": "I won't dance (2)",
+    "Title": "I won't dance",
     "Composer": "Hammerstein & Kahn"
   },
   {
@@ -526,12 +466,7 @@
   },
   {
     "Page": 109,
-    "Title": "Just one of those things (1)",
-    "Composer": "Cole Porter"
-  },
-  {
-    "Page": 110,
-    "Title": "Just one of those things (2)",
+    "Title": "Just one of those things",
     "Composer": "Cole Porter"
   },
   {
@@ -541,12 +476,7 @@
   },
   {
     "Page": 112,
-    "Title": "La camarde (1)",
-    "Composer": "Romane"
-  },
-  {
-    "Page": 113,
-    "Title": "La camarde (2)",
+    "Title": "La camarde",
     "Composer": "Romane"
   },
   {
@@ -556,22 +486,12 @@
   },
   {
     "Page": 115,
-    "Title": "La folle (1)",
-    "Composer": "Pierre Ferret"
-  },
-  {
-    "Page": 116,
-    "Title": "La folle (2)",
+    "Title": "La folle",
     "Composer": "Pierre Ferret"
   },
   {
     "Page": 117,
-    "Title": "La foule (1)",
-    "Composer": "Rivgauche & Cabral"
-  },
-  {
-    "Page": 118,
-    "Title": "La foule (2)",
+    "Title": "La foule",
     "Composer": "Rivgauche & Cabral"
   },
   {
@@ -591,12 +511,7 @@
   },
   {
     "Page": 122,
-    "Title": "Les feuilles mortes (1)",
-    "Composer": "Joseph Kosma"
-  },
-  {
-    "Page": 123,
-    "Title": "Les feuilles mortes (2)",
+    "Title": "Les feuilles mortes",
     "Composer": "Joseph Kosma"
   },
   {
@@ -636,7 +551,7 @@
   },
   {
     "Page": 131,
-    "Title": "Manoir de mes r?ves",
+    "Title": "Manoir de mes reves",
     "Composer": "Django"
   },
   {
@@ -696,22 +611,12 @@
   },
   {
     "Page": 143,
-    "Title": "Montagne Ste-Genevieve (1)",
-    "Composer": "Django"
-  },
-  {
-    "Page": 144,
-    "Title": "Montagne Ste-Genevieve (2)",
+    "Title": "Montagne Ste-Genevieve",
     "Composer": "Django"
   },
   {
     "Page": 145,
-    "Title": "Muppet Show theme (1)",
-    "Composer": "Pottle & Henson"
-  },
-  {
-    "Page": 146,
-    "Title": "Muppet Show theme (2)",
+    "Title": "Muppet Show theme",
     "Composer": "Pottle & Henson"
   },
   {
@@ -726,12 +631,7 @@
   },
   {
     "Page": 149,
-    "Title": "Mysterieuse (1)",
-    "Composer": "Jo Privat"
-  },
-  {
-    "Page": 150,
-    "Title": "Mysterieuse (2)",
+    "Title": "Mysterieuse",
     "Composer": "Jo Privat"
   },
   {
@@ -741,12 +641,7 @@
   },
   {
     "Page": 152,
-    "Title": "Night and day (1)",
-    "Composer": "Cole Porter"
-  },
-  {
-    "Page": 153,
-    "Title": "Night and day (2)",
+    "Title": "Night and day",
     "Composer": "Cole Porter"
   },
   {
@@ -781,32 +676,17 @@
   },
   {
     "Page": 160,
-    "Title": "Padam...padam (1)",
-    "Composer": "Glanzberg & Content"
-  },
-  {
-    "Page": 161,
-    "Title": "Padam...padam (2)",
+    "Title": "Padam...padam",
     "Composer": "Glanzberg & Content"
   },
   {
     "Page": 162,
-    "Title": "Panique (1)",
-    "Composer": "Pierre Ferret"
-  },
-  {
-    "Page": 163,
-    "Title": "Panique (2)",
+    "Title": "Panique",
     "Composer": "Pierre Ferret"
   },
   {
     "Page": 164,
-    "Title": "Passion (1)",
-    "Composer": "Tony Murena"
-  },
-  {
-    "Page": 165,
-    "Title": "Passion (2)",
+    "Title": "Passion",
     "Composer": "Tony Murena"
   },
   {
@@ -816,12 +696,7 @@
   },
   {
     "Page": 167,
-    "Title": "Penguin (1)",
-    "Composer": "Raymond Scott"
-  },
-  {
-    "Page": 168,
-    "Title": "Penguin (2)",
+    "Title": "Penguin",
     "Composer": "Raymond Scott"
   },
   {
@@ -831,12 +706,7 @@
   },
   {
     "Page": 170,
-    "Title": "Petite fleur (1)",
-    "Composer": "Sidney Bechet"
-  },
-  {
-    "Page": 171,
-    "Title": "Petite fleur (2)",
+    "Title": "Petite fleur",
     "Composer": "Sidney Bechet"
   },
   {
@@ -846,27 +716,17 @@
   },
   {
     "Page": 173,
-    "Title": "Powerhouse (1)",
-    "Composer": "Raymond Scott"
-  },
-  {
-    "Page": 174,
-    "Title": "Powerhouse (2)",
+    "Title": "Powerhouse",
     "Composer": "Raymond Scott"
   },
   {
     "Page": 175,
-    "Title": "Quand refleuriront les lilas blancs?",
+    "Title": "Quand refleuriront les lilas blancs",
     "Composer": "Franz Doelle"
   },
   {
     "Page": 176,
-    "Title": "Que reste-t-il de nos amours? (1)",
-    "Composer": "Leo Chailiac"
-  },
-  {
-    "Page": 177,
-    "Title": "Que reste-t-il de nos amours? (2)",
+    "Title": "Que reste-t-il de nos amours",
     "Composer": "Leo Chailiac"
   },
   {
@@ -911,12 +771,7 @@
   },
   {
     "Page": 186,
-    "Title": "Sing, sing, sing (1)",
-    "Composer": "Louis Prima"
-  },
-  {
-    "Page": 187,
-    "Title": "Sing, sing, sing (2)",
+    "Title": "Sing, sing, sing",
     "Composer": "Louis Prima"
   },
   {
@@ -951,22 +806,12 @@
   },
   {
     "Page": 194,
-    "Title": "Sous le ciel de Paris (1)",
-    "Composer": "Hubert Giraud"
-  },
-  {
-    "Page": 195,
-    "Title": "Sous le ciel de Paris (2)",
+    "Title": "Sous le ciel de Paris",
     "Composer": "Hubert Giraud"
   },
   {
     "Page": 196,
-    "Title": "Spivy (1)",
-    "Composer": "Django"
-  },
-  {
-    "Page": 197,
-    "Title": "Spivy (2)",
+    "Title": "Spivy",
     "Composer": "Django"
   },
   {
@@ -1036,12 +881,7 @@
   },
   {
     "Page": 211,
-    "Title": "Swing rhumba (1)",
-    "Composer": "Djalma Ferreira"
-  },
-  {
-    "Page": 212,
-    "Title": "Swing rhumba (2)",
+    "Title": "Swing rhumba",
     "Composer": "Djalma Ferreira"
   },
   {
@@ -1051,12 +891,7 @@
   },
   {
     "Page": 214,
-    "Title": "Swing valse (1)",
-    "Composer": "Viseur & Ferret"
-  },
-  {
-    "Page": 215,
-    "Title": "Swing valse (2)",
+    "Title": "Swing valse",
     "Composer": "Viseur & Ferret"
   },
   {
@@ -1066,12 +901,7 @@
   },
   {
     "Page": 217,
-    "Title": "Tchavolo swing (1)",
-    "Composer": "Tchavolo Schmitt"
-  },
-  {
-    "Page": 218,
-    "Title": "Tchavolo swing (2)",
+    "Title": "Tchavolo swing",
     "Composer": "Tchavolo Schmitt"
   },
   {
@@ -1086,7 +916,7 @@
   },
   {
     "Page": 221,
-    "Title": "Them there eyes",
+    "Title": "Them there eyes - QHCF Version",
     "Composer": "Pinkard Tauber & Tracy"
   },
   {
@@ -1106,12 +936,7 @@
   },
   {
     "Page": 225,
-    "Title": "Tico tico (1)",
-    "Composer": "Zequinha Abrieu"
-  },
-  {
-    "Page": 226,
-    "Title": "Tico tico (2)",
+    "Title": "Tico tico",
     "Composer": "Zequinha Abrieu"
   },
   {
