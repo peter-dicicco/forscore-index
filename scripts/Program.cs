@@ -4,17 +4,25 @@ namespace scripts;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        string jsonPath =  Path.Combine("../json", "Django Fakebook.json");
-
-        if (!File.Exists(jsonPath))
+        if (args.Length != 1)
         {
-            Console.Error.WriteLine($"JSON file not found: {jsonPath}");
+            Console.Error.WriteLine("This program requires a single argument: the name of the json file in the ../json directory.");
             return;
         }
 
-        string jsonText = File.ReadAllText(jsonPath);
+        string jsonFileName = Path.Combine("../json", args[0]);
+        string jsonFileNameWithoutExtension = Path.GetFileNameWithoutExtension(jsonFileName);
+        string csvFieName = jsonFileNameWithoutExtension + ".csv";
+
+        if (!File.Exists(jsonFileName))
+        {
+            Console.Error.WriteLine($"JSON file not found: {jsonFileName}");
+            return;
+        }
+
+        string jsonText = File.ReadAllText(jsonFileName);
         List<Song>? songs = JsonSerializer.Deserialize<List<Song>>(jsonText);
 
         if (songs is null)
@@ -27,7 +35,7 @@ class Program
             .Select((song, index) => new SongWithEndPage(song.Page, song.Title, song.Composer, index < songs.Count - 1 ? songs[index + 1].Page - 1 : song.Page))
             .ToList();
 
-        string outputCsvPath = Path.Combine(Directory.GetCurrentDirectory(), "Django Fakebook.csv");
+        string outputCsvPath = Path.Combine("../csv", csvFieName);
 
         using (var writer = new StreamWriter(outputCsvPath))
         {
