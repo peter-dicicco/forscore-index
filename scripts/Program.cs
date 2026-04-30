@@ -31,6 +31,33 @@ class Program
             return;
         }
 
+        List<Song> songsToRemove = [];
+
+        foreach (var song in songs)
+        {
+            if (song.Title.EndsWith("(1)"))
+            {
+                //remove the (1) from the title
+                song.Title = song.Title.Substring(0, song.Title.Length - 3);
+            }
+            if (song.Title.EndsWith("(2)") || song.Title.EndsWith("(3)"))
+            {
+                //add the song to the list of songs to remove
+                songsToRemove.Add(song);
+            }
+        }
+
+        // Remove the songs to remove from the main list
+        foreach (var song in songsToRemove)
+        {
+            songs.Remove(song);
+        }
+
+        foreach (var song in songs)
+        {
+            Console.WriteLine($"Page: {song.Page}, Title: {song.Title}, Composer: {song.Composer}");
+        }
+
         List<SongWithEndPage> songsWithEndPage = songs
             .Select((song, index) => new SongWithEndPage(song.Page, song.Title, song.Composer, index < songs.Count - 1 ? songs[index + 1].Page - 1 : song.Page))
             .ToList();
@@ -60,5 +87,9 @@ class Program
     }
 }
 
-record Song(int Page, string Title, string Composer);
+class Song{
+    public int Page {get; set;}
+    public string Title  {get; set;} = "";
+    public string Composer  {get; set;} = "";
+}
 record SongWithEndPage(int Page, string Title, string Composer, int EndPage);
