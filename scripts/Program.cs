@@ -6,9 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        if (args.Length != 1)
+        if (args.Length != 2)
         {
-            Console.Error.WriteLine("This program requires a single argument: the name of the json file in the ../json directory.");
+            Console.Error.WriteLine("This program requires two arguments: the name of the json file in the ../json directory and the display name of the book in ForScore.");
             return;
         }
 
@@ -39,10 +39,10 @@ class Program
 
         using (var writer = new StreamWriter(outputCsvPath))
         {
-            //writer.WriteLine("Page,EndPage,Title,Composer");
+            writer.WriteLine("start-page,end-page,title,composer,reference");
             foreach (var song in songsWithEndPage)
             {
-                writer.WriteLine($"{song.Page},{song.EndPage},{EscapeCsv(song.Title)},{EscapeCsv(song.Composer)}");
+                writer.WriteLine($"{song.Page},{song.EndPage},{EscapeCsv(song.Title)},{EscapeCsv(song.Composer)},{EscapeCsv(args[1])}");
             }
         }
 
