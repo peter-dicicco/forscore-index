@@ -1,37 +1,32 @@
 [
   {
     "Page": 11,
-    "Title": "Call for all Demons [Bass], A",
+    "Title": "A Call for all Demons [Bass]",
     "Composer": "Sun Ra"
   },
   {
     "Page": 12,
-    "Title": "Child is Born [Bass], A",
+    "Title": "A Child is Born [Bass]",
     "Composer": "Thad Jones"
   },
   {
     "Page": 13,
-    "Title": "Fine Romance [Bass], A",
+    "Title": "A Fine Romance [Bass]",
     "Composer": "Kern & Fields"
   },
   {
     "Page": 14,
-    "Title": "Family Joy [Bass] (1), A",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 15,
-    "Title": "Family Joy [Bass] (2), A",
+    "Title": "A Family Joy [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
     "Page": 16,
-    "Title": "Foggy Day [Bass], A",
+    "Title": "A Foggy Day [Bass]",
     "Composer": "George Gershwin"
   },
   {
     "Page": 17,
-    "Title": "Night in Tunisia [Bass], A",
+    "Title": "A Night in Tunisia [Bass]",
     "Composer": "Dizzy Gillespie"
   },
   {
@@ -96,12 +91,7 @@
   },
   {
     "Page": 30,
-    "Title": "Ana Maria [Bass] (1)",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 31,
-    "Title": "Ana Maria [Bass] (2)",
+    "Title": "Ana Maria [Bass]",
     "Composer": "Wayne Shorter"
   },
   {
@@ -141,23 +131,13 @@
   },
   {
     "Page": 38,
-    "Title": "Arise, Her Eyes (1) [Bass]",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 39,
-    "Title": "Arise, Her Eyes [Bass] (2)",
+    "Title": "Arise, Her Eyes [Bass]",
     "Composer": "Steve Swallow"
   },
   {
     "Page": 40,
-    "Title": "Armageddon [Bass]",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 41,
-    "Title": "As Time Goes By [Bass]",
-    "Composer": "Herman Hupfeld"
+    "Title": "Blank1",
+    "Composer": ""
   },
   {
     "Page": 42,
@@ -171,12 +151,7 @@
   },
   {
     "Page": 44,
-    "Title": "Ay, Arriba! [Bass] (1)",
-    "Composer": "Stu Balcomb"
-  },
-  {
-    "Page": 45,
-    "Title": "Ay, Arriba! [Bass] (2)",
+    "Title": "Ay, Arriba! [Bass]",
     "Composer": "Stu Balcomb"
   },
   {
@@ -192,11 +167,6 @@
   {
     "Page": 48,
     "Title": "Batterie [Bass]",
-    "Composer": "Carla Bley"
-  },
-  {
-    "Page": 48,
-    "Title": "Ictus [Bass]",
     "Composer": "Carla Bley"
   },
   {
@@ -216,18 +186,13 @@
   },
   {
     "Page": 52,
-    "Title": "Bessie's Blues [Bass]",
+    "Title": "Big Nick [Bass]",
     "Composer": "John Coltrane"
   },
   {
     "Page": 53,
-    "Title": "Bewitched [Bass]",
-    "Composer": "Rodgers & Hart"
-  },
-  {
-    "Page": 54,
-    "Title": "Big Nick [Bass]",
-    "Composer": "John Coltrane"
+    "Title": "Blank2",
+    "Composer": ""
   },
   {
     "Page": 55,
@@ -296,7 +261,7 @@
   },
   {
     "Page": 68,
-    "Title": "Blue Trane [Bass]",
+    "Title": "Blue Train [Bass]",
     "Composer": "John Coltrane"
   },
   {
@@ -316,12 +281,7 @@
   },
   {
     "Page": 72,
-    "Title": "Brainville [Bass] (1)",
-    "Composer": "Sun Ra"
-  },
-  {
-    "Page": 73,
-    "Title": "Brainville [Bass] (2)",
+    "Title": "Brainville [Bass]",
     "Composer": "Sun Ra"
   },
   {
@@ -346,22 +306,12 @@
   },
   {
     "Page": 78,
-    "Title": "Butterfly [Bass] (1)",
-    "Composer": "Herbie Hancock"
-  },
-  {
-    "Page": 79,
-    "Title": "Butterfly [Bass] (2)",
+    "Title": "Butterfly [Bass]",
     "Composer": "Herbie Hancock"
   },
   {
     "Page": 80,
-    "Title": "Captain Marvel [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 81,
-    "Title": "Captain Marvel [Bass] (2)",
+    "Title": "Captain Marvel [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -376,12 +326,7 @@
   },
   {
     "Page": 84,
-    "Title": "Chega de Saudade [Bass] (1)",
-    "Composer": "Antonio Carlos Jobim"
-  },
-  {
-    "Page": 85,
-    "Title": "Chega de Saudade [Bass] (2)",
+    "Title": "Chega de Saudade [Bass]",
     "Composer": "Antonio Carlos Jobim"
   },
   {
@@ -406,27 +351,12 @@
   },
   {
     "Page": 90,
-    "Title": "Children's Song [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 91,
-    "Title": "Children's Song [Bass] (2)",
+    "Title": "Children's Song [Bass]",
     "Composer": "Chick Corea"
   },
   {
     "Page": 92,
-    "Title": "Colors of Chloe [Bass] (1)",
-    "Composer": "Eberhard Weber"
-  },
-  {
-    "Page": 93,
-    "Title": "Colors of Chloe [Bass] (2)",
-    "Composer": "Eberhard Weber"
-  },
-  {
-    "Page": 94,
-    "Title": "Colors of Chloe [Bass] (3)",
+    "Title": "Colors of Chloe [Bass]",
     "Composer": "Eberhard Weber"
   },
   {
@@ -436,23 +366,13 @@
   },
   {
     "Page": 96,
-    "Title": "Como en Vietnam [Bass] (1)",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 97,
-    "Title": "Como en Vietnam [Bass] (2)",
+    "Title": "Como en Vietnam [Bass]",
     "Composer": "Steve Swallow"
   },
   {
     "Page": 98,
-    "Title": "Come Sunday [Bass]",
-    "Composer": "Duke Ellington"
-  },
-  {
-    "Page": 99,
-    "Title": "Con Alma [Bass]",
-    "Composer": "Dizzy Gillespie"
+    "Title": "Blank3",
+    "Composer": ""
   },
   {
     "Page": 100,
@@ -472,11 +392,6 @@
   {
     "Page": 103,
     "Title": "Coral [Bass]",
-    "Composer": "Keith Jarrett"
-  },
-  {
-    "Page": 103,
-    "Title": "Moonchild [Bass]",
     "Composer": "Keith Jarrett"
   },
   {
@@ -536,7 +451,7 @@
   },
   {
     "Page": 115,
-    "Title": "Days of Wine and Roses [Bass], The",
+    "Title": "The Days of Wine and Roses [Bass]",
     "Composer": "Henry Mancini"
   },
   {
@@ -551,8 +466,8 @@
   },
   {
     "Page": 118,
-    "Title": "Dear Old Stockholm (Ack Varmeland) [Bass]",
-    "Composer": ""
+    "Title": "Dear Old Stockholm [Bass]",
+    "Composer": "Ack Varmeland"
   },
   {
     "Page": 119,
@@ -561,32 +476,17 @@
   },
   {
     "Page": 120,
-    "Title": "De Pois do Amor o Vazio [Bass] (1)",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 121,
-    "Title": "De Pois do Amor o Vazio [Bass] (2)",
+    "Title": "De Pois do Amor o Vazio [Bass]",
     "Composer": "Wayne Shorter"
   },
   {
     "Page": 122,
-    "Title": "Desafinado [Bass] (1)",
-    "Composer": "Antonio Carlos Jobim"
-  },
-  {
-    "Page": 123,
-    "Title": "Desafinado [Bass] (2)",
+    "Title": "Desafinado [Bass]",
     "Composer": "Antonio Carlos Jobim"
   },
   {
     "Page": 124,
-    "Title": "Desert Air [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 125,
-    "Title": "Desert Air [Bass] (2)",
+    "Title": "Desert Air [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -601,12 +501,7 @@
   },
   {
     "Page": 128,
-    "Title": "Doin' the Pig [Bass] (1)",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 129,
-    "Title": "Doin' the Pig [Bass] (2)",
+    "Title": "Doin' the Pig [Bass]",
     "Composer": "Steve Swallow"
   },
   {
@@ -616,7 +511,7 @@
   },
   {
     "Page": 131,
-    "Title": "Dolphin [Bass], The",
+    "Title": "The Dolphin [Bass]",
     "Composer": "Eca"
   },
   {
@@ -646,7 +541,7 @@
   },
   {
     "Page": 137,
-    "Title": "Duke [Bass], The",
+    "Title": "The Duke [Bass]",
     "Composer": "Dave Brubeck"
   },
   {
@@ -671,12 +566,7 @@
   },
   {
     "Page": 142,
-    "Title": "Eiderdown [Bass] (1)",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 143,
-    "Title": "Eiderdown [Bass] (2)",
+    "Title": "Eiderdown [Bass]",
     "Composer": "Steve Swallow"
   },
   {
@@ -731,12 +621,7 @@
   },
   {
     "Page": 154,
-    "Title": "Fables of Faubus [Bass] (1)",
-    "Composer": "Charles Mingus"
-  },
-  {
-    "Page": 155,
-    "Title": "Fables of Faubus [Bass] (2)",
+    "Title": "Fables of Faubus [Bass]",
     "Composer": "Charles Mingus"
   },
   {
@@ -766,7 +651,7 @@
   },
   {
     "Page": 161,
-    "Title": "Fields We Know [Bass], The",
+    "Title": "The Fields We Know [Bass]",
     "Composer": "Keith Jarrett"
   },
   {
@@ -781,23 +666,13 @@
   },
   {
     "Page": 164,
-    "Title": "Follow Your Heart [Bass] (1)",
-    "Composer": "John McLaughlin"
-  },
-  {
-    "Page": 165,
-    "Title": "Follow Your Heart [Bass] (2)",
+    "Title": "Follow Your Heart [Bass]",
     "Composer": "John McLaughlin"
   },
   {
     "Page": 166,
     "Title": "Flags [Bass]",
     "Composer": "Carla Bley"
-  },
-  {
-    "Page": 166,
-    "Title": "Central Park West [Bass]",
-    "Composer": "John Coltrane"
   },
   {
     "Page": 167,
@@ -831,7 +706,7 @@
   },
   {
     "Page": 173,
-    "Title": "Four Winds [Bass], The",
+    "Title": "The Four Winds [Bass]",
     "Composer": "Dave Holland"
   },
   {
@@ -871,7 +746,7 @@
   },
   {
     "Page": 181,
-    "Title": "Girl From Ipanema [Bass], The",
+    "Title": "The Girl From Ipanema [Bass]",
     "Composer": "Antonio Carlos Jobim"
   },
   {
@@ -896,12 +771,7 @@
   },
   {
     "Page": 186,
-    "Title": "Good Evening Mr. & Mrs. America [Bass] (1)",
-    "Composer": "John Guerin"
-  },
-  {
-    "Page": 187,
-    "Title": "Good Evening Mr. & Mrs. America [Bass] (2)",
+    "Title": "Good Evening Mr. & Mrs. America [Bass]",
     "Composer": "John Guerin"
   },
   {
@@ -926,12 +796,7 @@
   },
   {
     "Page": 192,
-    "Title": "Grow Your Own [Bass] (1)",
-    "Composer": "Keith Jarrett"
-  },
-  {
-    "Page": 193,
-    "Title": "Grow Your Own [Bass] (2)",
+    "Title": "Grow Your Own [Bass]",
     "Composer": "Keith Jarrett"
   },
   {
@@ -956,32 +821,17 @@
   },
   {
     "Page": 198,
-    "Title": "Hello, Young Lovers [Bass] (1)",
-    "Composer": "Rodgers & Hammerstein"
-  },
-  {
-    "Page": 199,
-    "Title": "Hello, Young Lovers [Bass] (2)",
+    "Title": "Hello, Young Lovers [Bass]",
     "Composer": "Rodgers & Hammerstein"
   },
   {
     "Page": 200,
-    "Title": "Henniger Flats [Bass]",
-    "Composer": "Pritchard"
-  },
-  {
-    "Page": 201,
-    "Title": "Here's That Rainy Day [Bass]",
-    "Composer": "Van Heusen"
+    "Title": "Blank3",
+    "Composer": ""
   },
   {
     "Page": 202,
-    "Title": "Herzog [Bass] (1)",
-    "Composer": "Bobby Hutcherson"
-  },
-  {
-    "Page": 203,
-    "Title": "Herzog [Bass] (2)",
+    "Title": "Herzog [Bass]",
     "Composer": "Bobby Hutcherson"
   },
   {
@@ -1006,17 +856,7 @@
   },
   {
     "Page": 208,
-    "Title": "Hotel Hello [Bass] (1)",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 209,
-    "Title": "Hotel Hello [Bass] (2)",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 210,
-    "Title": "Hotel Hello [Bass] (3)",
+    "Title": "Hotel Hello [Bass]",
     "Composer": "Steve Swallow"
   },
   {
@@ -1051,12 +891,7 @@
   },
   {
     "Page": 216,
-    "Title": "Icarus [Bass] (1)",
-    "Composer": "Ralph Towner"
-  },
-  {
-    "Page": 217,
-    "Title": "Icarus [Bass] (2)",
+    "Title": "Icarus [Bass]",
     "Composer": "Ralph Towner"
   },
   {
@@ -1071,13 +906,8 @@
   },
   {
     "Page": 220,
-    "Title": "Ida Lupino [Bass] (1)",
-    "Composer": "Carla Bley"
-  },
-  {
-    "Page": 221,
-    "Title": "Ida Lupino [Bass] (2)",
-    "Composer": "Carla Bley"
+    "Title": "Blank4",
+    "Composer": ""
   },
   {
     "Page": 222,
@@ -1091,7 +921,7 @@
   },
   {
     "Page": 224,
-    "Title": "I Let a Song [Bass]",
+    "Title": "I Let a Song Go Out of My Heart [Bass]",
     "Composer": "Duke Ellington"
   },
   {
@@ -1101,12 +931,7 @@
   },
   {
     "Page": 226,
-    "Title": "I'm All Smiles [Bass] (1)",
-    "Composer": "Leonard & Martin"
-  },
-  {
-    "Page": 227,
-    "Title": "I'm All Smiles [Bass] (2)",
+    "Title": "I'm All Smiles [Bass]",
     "Composer": "Leonard & Martin"
   },
   {
@@ -1141,27 +966,12 @@
   },
   {
     "Page": 234,
-    "Title": "Inchworm [Bass]",
-    "Composer": "John Coltrane"
-  },
-  {
-    "Page": 235,
-    "Title": "Indian Lady [Bass]",
-    "Composer": "Don Ellis"
+    "Title": "Blank5",
+    "Composer": ""
   },
   {
     "Page": 236,
-    "Title": "Inside In [Bass] (1)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 237,
-    "Title": "Inside In [Bass] (2)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 238,
-    "Title": "Inside In [Bass] (3)",
+    "Title": "Inside In [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
@@ -1221,13 +1031,8 @@
   },
   {
     "Page": 250,
-    "Title": "Israel [Bass]",
-    "Composer": "John Carisi"
-  },
-  {
-    "Page": 251,
-    "Title": "It Don't Mean A Thing [Bass]",
-    "Composer": "Duke Ellington"
+    "Title": "Blank6",
+    "Composer": ""
   },
   {
     "Page": 252,
@@ -1271,43 +1076,23 @@
   },
   {
     "Page": 260,
-    "Title": "Jump Monk [Bass] (1)",
-    "Composer": "Charles Mingus"
-  },
-  {
-    "Page": 261,
-    "Title": "Jump Monk [Bass] (2)",
+    "Title": "Jump Monk [Bass]",
     "Composer": "Charles Mingus"
   },
   {
     "Page": 262,
-    "Title": "June 15 1967 [Bass] (1)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 263,
-    "Title": "June 15 1967 [Bass] (2)",
+    "Title": "June 15 1967 [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
     "Page": 264,
-    "Title": "La Fiesta [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 265,
-    "Title": "La Fiesta [Bass] (2)",
+    "Title": "La Fiesta [Bass]",
     "Composer": "Chick Corea"
   },
   {
     "Page": 266,
-    "Title": "Lady Bird [Bass]",
-    "Composer": "Tadd Dameron"
-  },
-  {
-    "Page": 267,
-    "Title": "Lament [Bass]",
-    "Composer": "JJ Johnson"
+    "Title": "Blank7",
+    "Composer": ""
   },
   {
     "Page": 268,
@@ -1341,12 +1126,7 @@
   },
   {
     "Page": 274,
-    "Title": "Litha [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 275,
-    "Title": "Litha [Bass] (2)",
+    "Title": "Litha [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -1361,12 +1141,7 @@
   },
   {
     "Page": 278,
-    "Title": "Liturgy [Bass] (1)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 279,
-    "Title": "Liturgy [Bass] (2)",
+    "Title": "Liturgy [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
@@ -1411,17 +1186,12 @@
   },
   {
     "Page": 288,
-    "Title": "Lush Life [Bass] (1)",
-    "Composer": "Billy Strayhorn"
-  },
-  {
-    "Page": 289,
-    "Title": "Lush Life [Bass] (2)",
+    "Title": "Lush Life [Bass]",
     "Composer": "Billy Strayhorn"
   },
   {
     "Page": 290,
-    "Title": "Magician in You [Bass], The",
+    "Title": "The Magician in You [Bass]",
     "Composer": "Keith Jarrett"
   },
   {
@@ -1431,33 +1201,13 @@
   },
   {
     "Page": 292,
-    "Title": "Mallet Man [Bass] (1)",
-    "Composer": "Gordon Beck"
-  },
-  {
-    "Page": 293,
-    "Title": "Mallet Man [Bass] (2)",
+    "Title": "Mallet Man [Bass]",
     "Composer": "Gordon Beck"
   },
   {
     "Page": 294,
-    "Title": "Man in the Green Shirt [Bass] (1)",
-    "Composer": "Joe Zawinul"
-  },
-  {
-    "Page": 295,
-    "Title": "Man in the Green Shirt [Bass] (2)",
-    "Composer": "Joe Zawinul"
-  },
-  {
-    "Page": 296,
-    "Title": "Majoong [Bass]",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 297,
-    "Title": "May Dance [Bass]",
-    "Composer": "Dave Holland"
+    "Title": "Blank8",
+    "Composer": ""
   },
   {
     "Page": 298,
@@ -1471,13 +1221,8 @@
   },
   {
     "Page": 300,
-    "Title": "Mevlevia [Bass] (1)",
-    "Composer": "Mick Goodrick"
-  },
-  {
-    "Page": 301,
-    "Title": "Mevlevia [Bass] (2)",
-    "Composer": "Mick Goodrick"
+    "Title": "Blank9",
+    "Composer": ""
   },
   {
     "Page": 302,
@@ -1491,13 +1236,8 @@
   },
   {
     "Page": 304,
-    "Title": "Milano [Bass]",
-    "Composer": "John Lewis"
-  },
-  {
-    "Page": 305,
-    "Title": "Minority [Bass]",
-    "Composer": "Gigi Gryce"
+    "Title": "Blank10",
+    "Composer": ""
   },
   {
     "Page": 306,
@@ -1513,6 +1253,11 @@
     "Page": 308,
     "Title": "Molten Glass [Bass]",
     "Composer": "Joe Farrell"
+  },
+  {
+    "Page": 309,
+    "Title": "Moments Notice [Bass]",
+    "Composer": "John Coltrane"
   },
   {
     "Page": 310,
@@ -1531,7 +1276,7 @@
   },
   {
     "Page": 313,
-    "Title": "More I See You [Bass], The",
+    "Title": "The More I See You [Bass]",
     "Composer": "Warren & Gordon"
   },
   {
@@ -1567,12 +1312,7 @@
   {
     "Page": 319,
     "Title": "My Little Boat [Bass]",
-    "Composer": "Schmortz"
-  },
-  {
-    "Page": 319,
-    "Title": "Moment's Notice [Bass]",
-    "Composer": "John Coltrane"
+    "Composer": "Roberto Menescal"
   },
   {
     "Page": 320,
@@ -1586,12 +1326,7 @@
   },
   {
     "Page": 322,
-    "Title": "Mysterious Traveler [Bass] (1)",
-    "Composer": "Joe Zawinul"
-  },
-  {
-    "Page": 323,
-    "Title": "Mysterious Traveler [Bass] (2)",
+    "Title": "Mysterious Traveler [Bass]",
     "Composer": "Joe Zawinul"
   },
   {
@@ -1636,7 +1371,7 @@
   },
   {
     "Page": 332,
-    "Title": "Night Has A Thousand Eyes [Bass], The",
+    "Title": "The Night Has A Thousand Eyes [Bass]",
     "Composer": "Weisman et al"
   },
   {
@@ -1646,12 +1381,7 @@
   },
   {
     "Page": 334,
-    "Title": "Nonsequence [Bass] (1)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 335,
-    "Title": "Nonsequence [Bass] (2)",
+    "Title": "Nonsequence [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
@@ -1686,12 +1416,7 @@
   },
   {
     "Page": 342,
-    "Title": "Open Your Eyes, You Can Fly [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 343,
-    "Title": "Open Your Eyes, You Can Fly [Bass] (2)",
+    "Title": "Open Your Eyes, You Can Fly [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -1716,12 +1441,7 @@
   },
   {
     "Page": 348,
-    "Title": "Peaches en Regalia [Bass] (1)",
-    "Composer": "Frank Zappa"
-  },
-  {
-    "Page": 349,
-    "Title": "Peaches en Regalia [Bass] (2)",
+    "Title": "Peaches en Regalia [Bass]",
     "Composer": "Frank Zappa"
   },
   {
@@ -1746,12 +1466,7 @@
   },
   {
     "Page": 354,
-    "Title": "Pensativa [Bass] (1)",
-    "Composer": "Clare Fischer"
-  },
-  {
-    "Page": 355,
-    "Title": "Pensativa [Bass] (2)",
+    "Title": "Pensativa [Bass]",
     "Composer": "Clare Fischer"
   },
   {
@@ -1786,7 +1501,7 @@
   },
   {
     "Page": 362,
-    "Title": "Portsmouth Configurations [Bass]",
+    "Title": "Portsmouth Figurations [Bass]",
     "Composer": "Steve Swallow"
   },
   {
@@ -1806,17 +1521,12 @@
   },
   {
     "Page": 366,
-    "Title": "Quiet Now [Bass]",
-    "Composer": "Denny Zeitlin"
-  },
-  {
-    "Page": 367,
-    "Title": "Raven [Bass], The",
-    "Composer": "Keith Jarrett"
+    "Title": "Blank11",
+    "Composer": ""
   },
   {
     "Page": 368,
-    "Title": "Real Guitarist [Bass], The",
+    "Title": "The Real Guitarist [Bass]",
     "Composer": "Steve Kuhn"
   },
   {
@@ -1826,13 +1536,8 @@
   },
   {
     "Page": 370,
-    "Title": "Reincarnation of a Lovebird [Bass] (1)",
-    "Composer": "Charles Mingus"
-  },
-  {
-    "Page": 371,
-    "Title": "Reincarnation of a Lovebird [Bass] (2)",
-    "Composer": "Charles Mingus"
+    "Title": "Blank12",
+    "Composer": ""
   },
   {
     "Page": 372,
@@ -1876,13 +1581,13 @@
   },
   {
     "Page": 380,
-    "Title": "Sea Journey [Bass] (1)",
+    "Title": "Sea Journey [Bass]",
     "Composer": "Chick Corea"
   },
   {
-    "Page": 381,
-    "Title": "Sea Journey [Bass] (2)",
-    "Composer": "Chick Corea"
+    "Page": 382,
+    "Title": "Self Portrait in Three Colors [Bass]",
+    "Composer": "Charles Mingus"
   },
   {
     "Page": 383,
@@ -1891,17 +1596,7 @@
   },
   {
     "Page": 384,
-    "Title": "Senor Mouse [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 385,
-    "Title": "Senor Mouse [Bass] (2)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 386,
-    "Title": "Senor Mouse [Bass] (3)",
+    "Title": "Senor Mouse [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -1911,13 +1606,8 @@
   },
   {
     "Page": 388,
-    "Title": "Seven Come Eleven [Bass]",
-    "Composer": "Goodman & Christian"
-  },
-  {
-    "Page": 389,
-    "Title": "Seven Steps to Heaven [Bass]",
-    "Composer": "Davis & Feldman"
+    "Title": "Blank13",
+    "Composer": ""
   },
   {
     "Page": 390,
@@ -1926,13 +1616,8 @@
   },
   {
     "Page": 391,
-    "Title": "Shadow of Your Smile [Bass], The",
+    "Title": "The Shadow of Your Smile [Bass]",
     "Composer": "Johnny Mandel"
-  },
-  {
-    "Page": 392,
-    "Title": "Self Portrait in Three Colors [Bass]",
-    "Composer": "Charles Mingus"
   },
   {
     "Page": 392,
@@ -1976,23 +1661,13 @@
   },
   {
     "Page": 400,
-    "Title": "Some Skunk Funk [Bass] (1)",
-    "Composer": "Randy Brecker"
-  },
-  {
-    "Page": 401,
-    "Title": "Some Skunk Funk [Bass] (2)",
+    "Title": "Some Skunk Funk [Bass]",
     "Composer": "Randy Brecker"
   },
   {
     "Page": 402,
-    "Title": "Sometime Ago [Bass]",
-    "Composer": "Mihanovich"
-  },
-  {
-    "Page": 403,
-    "Title": "Song [Bass]",
-    "Composer": "Stu Balcomb"
+    "Title": "Blank14",
+    "Composer": ""
   },
   {
     "Page": 404,
@@ -2001,7 +1676,7 @@
   },
   {
     "Page": 405,
-    "Title": "Song is You [Bass], The",
+    "Title": "The Song is You [Bass]",
     "Composer": "Kern & Hammerstein"
   },
   {
@@ -2016,7 +1691,7 @@
   },
   {
     "Page": 408,
-    "Title": "Sorceror [Bass], The",
+    "Title": "The Sorceror [Bass]",
     "Composer": "Herbie Hancock"
   },
   {
@@ -2026,22 +1701,12 @@
   },
   {
     "Page": 410,
-    "Title": "Space Circus (Part 1) [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 411,
-    "Title": "Space Circus (Part 1) [Bass] (2)",
+    "Title": "Space Circus (Part 1) [Bass]",
     "Composer": "Chick Corea"
   },
   {
     "Page": 412,
-    "Title": "Space Circus (Part 2) [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 413,
-    "Title": "Space Circus (Part 2) [Bass] (2)",
+    "Title": "Space Circus (Part 2) [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -2061,7 +1726,7 @@
   },
   {
     "Page": 417,
-    "Title": "Star-Crossed Lovers [Bass], The",
+    "Title": "The Star-Crossed Lovers [Bass]",
     "Composer": "Duke Ellington"
   },
   {
@@ -2116,13 +1781,8 @@
   },
   {
     "Page": 428,
-    "Title": "Sweet Henry [Bass]",
-    "Composer": "Steve Swallow"
-  },
-  {
-    "Page": 429,
-    "Title": "Sweet Rain [Bass]",
-    "Composer": "Michael Gibbs"
+    "Title": "Blank15",
+    "Composer": ""
   },
   {
     "Page": 430,
@@ -2136,22 +1796,12 @@
   },
   {
     "Page": 432,
-    "Title": "Tame Thy Pen [Bass]",
-    "Composer": "Richard Niles"
-  },
-  {
-    "Page": 433,
-    "Title": "There Is No Greater Love [Bass]",
-    "Composer": "Jones & Symes"
+    "Title": "Blank16",
+    "Composer": ""
   },
   {
     "Page": 434,
-    "Title": "Tell Me A Bedtime Story [Bass] (1)",
-    "Composer": "Herbie Hancock"
-  },
-  {
-    "Page": 435,
-    "Title": "Tell Me A Bedtime Story [Bass] (2)",
+    "Title": "Tell Me A Bedtime Story [Bass]",
     "Composer": "Herbie Hancock"
   },
   {
@@ -2176,12 +1826,7 @@
   },
   {
     "Page": 440,
-    "Title": "Tones for Joan's Bones [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 441,
-    "Title": "Tones for Joan's Bones [Bass] (2)",
+    "Title": "Tones for Joan's Bones [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -2236,13 +1881,8 @@
   },
   {
     "Page": 452,
-    "Title": "Vashkar [Bass]",
-    "Composer": "Carla Bley"
-  },
-  {
-    "Page": 453,
-    "Title": "Very Early [Bass]",
-    "Composer": "Bill Evans"
+    "Title": "Blank17",
+    "Composer": ""
   },
   {
     "Page": 454,
@@ -2296,13 +1936,8 @@
   },
   {
     "Page": 464,
-    "Title": "Well You Needn't [Bass]",
-    "Composer": "Thelonious Monk"
-  },
-  {
-    "Page": 465,
-    "Title": "West Coast Blues [Bass]",
-    "Composer": "Wes Montgomery"
+    "Title": "Blank18",
+    "Composer": ""
   },
   {
     "Page": 466,
@@ -2316,12 +1951,7 @@
   },
   {
     "Page": 468,
-    "Title": "What Was [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 469,
-    "Title": "What Was [Bass] (2)",
+    "Title": "What Was [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -2346,22 +1976,12 @@
   },
   {
     "Page": 474,
-    "Title": "Wildflower [Bass] (1)",
-    "Composer": "Wayne Shorter"
-  },
-  {
-    "Page": 475,
-    "Title": "Wildflower [Bass] (2)",
+    "Title": "Wildflower [Bass]",
     "Composer": "Wayne Shorter"
   },
   {
     "Page": 476,
-    "Title": "Windows [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 477,
-    "Title": "Windows [Bass] (2)",
+    "Title": "Windows [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -2416,12 +2036,7 @@
   },
   {
     "Page": 488,
-    "Title": "Untitled [Bass] (1)",
-    "Composer": "Michael Gibbs"
-  },
-  {
-    "Page": 489,
-    "Title": "Untitled [Bass] (2)",
+    "Title": "Untitled [Bass]",
     "Composer": "Michael Gibbs"
   },
   {
@@ -2436,17 +2051,7 @@
   },
   {
     "Page": 492,
-    "Title": "Spain [Bass] (1)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 493,
-    "Title": "Spain [Bass] (2)",
-    "Composer": "Chick Corea"
-  },
-  {
-    "Page": 494,
-    "Title": "Spain [Bass] (3)",
+    "Title": "Spain [Bass]",
     "Composer": "Chick Corea"
   },
   {
@@ -2466,12 +2071,12 @@
   },
   {
     "Page": 498,
-    "Title": "Disguise [Bass], The",
+    "Title": "The Disguise [Bass]",
     "Composer": "Ornette Colman"
   },
   {
     "Page": 498,
-    "Title": "Sphinx [Bass], The",
+    "Title": "The Sphinx [Bass]",
     "Composer": "Ornette Colman"
   },
   {
